@@ -1,4 +1,10 @@
 <<<<<<< HEAD
+OUTPUT FILE URL:-
+
+![Screenshot from 2023-10-14 17-30-54](https://github.com/Rahulsh1192/manufac2.0/assets/68464578/89f3b8c8-0757-4b3d-a4f3-b5fb9080a5cf)
+
+
+
 first install all the dependencies by running command yarn install
 =======
 ![stats output](./public/StatsUutput.png))
@@ -74,3 +80,41 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
